@@ -1,0 +1,2 @@
+public class Wok3 {
+}
